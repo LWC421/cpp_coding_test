@@ -1,6 +1,7 @@
 {
   "files.associations": {
     "*.css": "tailwindcss",
-    "queue": "cpp"
+    "queue": "cpp",
+    "utility": "cpp"
   }
 }
